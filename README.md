@@ -1,4 +1,4 @@
-# Window_Modal
+# Window Modal
 
  Interface de controle gráfico subordinado à janela principal.
  
